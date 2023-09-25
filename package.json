@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "name": "movie-recommendation-cli",
+  "version": "1.0.0",
+  "description": "Movie Recommendation CLI Tool",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "inquirer": "^8.2.6"
+  }
+}
